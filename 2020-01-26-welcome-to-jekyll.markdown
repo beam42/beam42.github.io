@@ -4,15 +4,16 @@ title:  "Welcome to Jekyll!"
 date:   2020-01-26 18:44:42 -0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+My name’s Ryan! I’m a senior in high school, and maybe the first thing you should know about me is that I design and 3D print Rubik’s Cube-type “twisty puzzles” in my free time. That feels important.
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
+In keeping with a long tradition of teenagers inventing things in California garages, I’ve also 3D printed heat shields, fought the spread of fake news online, and tried to make microgravity drop towers obsolete. Along the way, I’ve picked up awards at the State and International Science & Engineering Fairs (CSEF and ISEF, respectively).
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+I’m currently working on what I call The Jurisdictional Clarity Project, a Python-based webtool that addresses the enormous lack of local, district-specific data on issues like sea level rise and wildfire risk-- a gap that I first encountered as an intern in the office of my state assemblymember.
+
+
+I’m also lobbying for ACA 4, an amendment to California’s Constitution, which would allow 17-year-olds to participate in primary elections if they will be 18-years-old by the corresponding general election. In 2018, I published op-eds making the case for ACA 4 in The Sacramento Bee and the Los Angeles Times, and was later featured for a piece on the issue in The New York Times.
 
 {% highlight ruby %}
 def print_hi(name)
