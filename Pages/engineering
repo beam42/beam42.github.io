@@ -1,0 +1,40 @@
+<html>
+ 
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <style type="text/css">@import url </style>
+  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+  <div id ="container"> 
+      <h1 class="title">ryan beam</h1>
+      <center>
+      <l1 class="subtitle"><a href="/index.html">home</a></l1> &nbsp;&nbsp;
+      <l1 class="subtitle"><a href="writing.html">writing</a></l1> &nbsp; &nbsp;
+      <l1 class="subtitle"><a href="projects.html">projects</a></l1>
+      </center>
+  </div>
+
+<div id ="container">
+
+    <p>
+
+<img id="puzzle1" src="/Images/air2.JPG" alt="me">
+
+    <hr>
+    <h3><center> Streamlined Body Project: Air </center></h3>
+One of several prototypes I built of a drone-based streamlined body. Meant to ascend to 400 feet, disengage motors, fall freely, and re-engage motors to catch itself before impact. Other versions included retractable arms, but servos and steppers introduced weight (and cost) problems. Lessons learned in 3D printing, controls, UAVs, electronics, aerodynamics.
+  </p>
+
+  <hr>
+    <p>
+          <img id="puzzle1" src="/Images/water2.jpg" alt="me">
+    <hr>
+    <h3><center> Streamlined Body Project: Water </center></h3>
+    
+A vessel I designed to sink as fast as possible. Used Solidworks CFD to design a streamlined body, 3D printed in multiple parts. Lined the inside walls with scrap tungsten wrapped in duct tape, used pressurized water bottle and nosecone channels in effort to simulate supercavitation, painted with hydrophobic surface coating, added fins for stabilization, tested in local pool.
+  </p>
+  <hr>
