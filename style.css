@@ -11,7 +11,10 @@
 
 #container4{width:90%;max-width:760px;margin:4rem auto}
 
-#container5{width:70%;max-width:650px;margin:3rem auto; background-color: #EBEBEB; padding-right:1rem;}
+#container5{width:70%;max-width:650px;margin:2rem auto; background-color: #EBEBEB; padding-right:1rem;}
+
+#container6{width:70%;max-width:650px;margin:3rem auto; background-color: #EBEBEB; padding-right:1rem;padding-left:1rem;padding-top:1rem;padding-bottom:1rem;}
+
 
 
 #rubik{width:15rem; height:15rem; margin-left:1rem; margin-right: 1rem; margin-bottom:1rem; float:right;}
