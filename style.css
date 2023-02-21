@@ -21,6 +21,10 @@
 
 #project{width:15rem; height:15rem; margin-left:1rem; margin-right: 1rem; margin-bottom:1rem; float:left;}
 
+#projectright{width:15rem; height:15rem; margin-left:1rem; margin-right: 1rem; margin-bottom:1rem; float:right;}
+
+
+
 #project2{width:10rem; height:12rem; margin-left:1rem; margin-right: 1rem; margin-bottom:1rem; float:left;}
 
 #puzzle1{width:14rem; height:14rem; margin-left:1rem; margin-right: 1rem; margin-bottom:1rem; float:left;}
@@ -32,6 +36,9 @@
 #project4{width:17rem; height:12rem; margin-left:1rem; margin-right: 1rem; margin-top: 1rem; margin-bottom:1.4rem; float:left;}
 
 #headshot{width:15rem; height:15rem; margin-left:1rem; margin-right: 1rem; margin-top:1rem; margin-bottom:1rem; float:left;}
+
+#pigeon{width:5rem; height:5rem; margin-left:1rem; margin-right: 1rem; margin-top:1rem; margin-bottom:1rem; float:left;}
+
 
 #yoot{width:10rem; height:4rem;margin-left:1rem; margin-right: 1rem; margin-bottom:1rem; margin-top: 2rem; float:left;}
 
@@ -85,3 +92,10 @@ a {color: 326891;font-family:"Rubik"; text-decoration: none;}
 .grad {background: #FDB515;}
 
 .mit {background: #8a3633;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
