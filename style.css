@@ -43,6 +43,9 @@
 
 #pbtimes{width:600px; margin-left:1rem; margin-right: 1rem; margin-top:1rem; margin-bottom:1rem; float:center;}
 
+#pressbsmall{width:15rem; margin-left:1rem; margin-right: 1rem; margin-top:1rem; margin-bottom:1rem; float:left;}
+
+
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
